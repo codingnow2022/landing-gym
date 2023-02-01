@@ -9,6 +9,7 @@
     --primary-color : #2c5bff;
     --fontSize-title: 40px;
     --fontSize-parrafos : 20px; 
+    --cambio-variable: 10px;
 }
 
 h1,h2,h3,h4,h5,h6{
